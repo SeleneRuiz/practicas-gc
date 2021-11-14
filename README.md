@@ -1,2 +1,2 @@
 # GenomicaFC_2021-2
-Tareas de Genómica Computacional
+Tareas del curso Genómica Computacional
