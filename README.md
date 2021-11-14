@@ -1,2 +1,2 @@
-# practicas-gc
-prácticas de Genómica Computacional
+# GenomicaFC_2021-2
+Tareas de Genómica Computacional
